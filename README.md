@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](Link Coming soon)**
+- **[Vulnerability Management Program Implementation](https://github.com/jason-p-nguyen/vulnerability-management-program/)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](Link Coming Soon)**
 
 ## 🚨 Threat Hunting and Security Operations
