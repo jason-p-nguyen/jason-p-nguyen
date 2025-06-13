@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](Link Coming Soon)**
 
-- **[Threat Hunting Lab Reports](threat-hunting-labs/README.md)**
+- **[Threat Hunting Lab Reports](https://github.com/jason-p-nguyen/threat-hunting-labs/blob/main/README.md)**
 
 <hr/>
 
