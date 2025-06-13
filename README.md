@@ -12,6 +12,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](Link Coming Soon)**
 
+- **[Threat Hunting Lab Reports](threat-hunting-labs/README.md)**
+
 <hr/>
 
 ## 🤳 Connect With Me
