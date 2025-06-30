@@ -24,6 +24,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Incident Response Lab Reports](https://github.com/jason-p-nguyen/incident-response-labs/)** 
 
+- **[Threat Hunt Project Ideas](Coming soon)**
+
 <hr/>
 
 🛠️ Tools & Languages
