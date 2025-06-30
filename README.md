@@ -12,21 +12,23 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/jason-p-nguyen/vulnerability-management-program/)**
-- **[Windows 10 DISA STIG Programmatic Remediations (PowerShell)](https://github.com/jason-p-nguyen/DISA-STIG-Implementations/blob/main/README.md)**
+
+- **[Windows 10 DISA STIG Programmatic Remediations (PowerShell)](https://github.com/jason-p-nguyen/DISA-STIG-Implementations/)**
+  
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](Link Coming Soon)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jason-p-nguyen/threat-hunting-project/blob/main/README.md)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jason-p-nguyen/threat-hunting-project/)**
 
-- **[Threat Hunting Lab Reports](https://github.com/jason-p-nguyen/threat-hunting-labs/blob/main/README.md)**
+- **[Threat Hunting Lab Reports](https://github.com/jason-p-nguyen/threat-hunting-labs/)**
 
-- **[Incident Response Lab Reports](https://github.com/jason-p-nguyen/incident-response-labs/blob/main/README.md)** 
+- **[Incident Response Lab Reports](https://github.com/jason-p-nguyen/incident-response-labs/)** 
 
 <hr/>
 
 ## 🤳 Connect With Me
-
+<!--
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -36,8 +38,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [youtube]: https://www.youtube.com/c/___________
 [instagram]: https://www.instagram.com/___________
 [linkedin]: https://linkedin.com/in/___________
+-->
 
-<!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+
