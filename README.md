@@ -13,13 +13,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/jason-p-nguyen/vulnerability-management-program/)**
 
-- **[Windows 10 DISA STIG Programmatic Remediations (PowerShell)](https://github.com/jason-p-nguyen/DISA-STIG-Implementations/)**
+- **[Windows 10 DISA STIG Programmatic Remediations Lab (PowerShell)](https://github.com/jason-p-nguyen/DISA-STIG-Implementations/)**
   
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](Link Coming Soon)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jason-p-nguyen/threat-hunting-project/)**
+- **[Threat Hunting Project (Tor Browser Usage)](https://github.com/jason-p-nguyen/threat-hunting-project/)**
 
 - **[Threat Hunting Lab Reports](https://github.com/jason-p-nguyen/threat-hunting-labs/)**
 
