@@ -8,7 +8,6 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/jason-p-nguyen/vulnerability-management-program/)**
@@ -26,6 +25,25 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Incident Response Lab Reports](https://github.com/jason-p-nguyen/incident-response-labs/)** 
 
 <hr/>
+
+🛠️ Tools & Languages
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0089D6?logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+
+🔐 Security Tools / Interests
+![DISA STIG](https://img.shields.io/badge/DISA_STIG-0055A5?logo=nationalguard&logoColor=white)
+![Tenable Nessus](https://img.shields.io/badge/Tenable-Nessus-0098DB?logo=tenable&logoColor=white)
+![Azure Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-5C2D91?logo=microsoftazure&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/Defender_for_Endpoint-0078D4?logo=microsoft&logoColor=white)
+
+🧠 Learning / Roles
+![Cybersecurity Intern](https://img.shields.io/badge/Cybersecurity-Intern-yellow)
+![Lifelong Learner](https://img.shields.io/badge/Lifelong-Learner-brightgreen)
+![Red Team Curious](https://img.shields.io/badge/Red_Team-Curious-critical)
+
 
 ## 🤳 Connect With Me
 
