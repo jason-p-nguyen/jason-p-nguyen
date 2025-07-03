@@ -18,7 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Project (Tor Browser Usage)](https://github.com/jason-p-nguyen/threat-hunting-project/)**
+- **[Threat Hunting Project (Tor Browser Usage)](https://github.com/jason-p-nguyen/threat-hunting-projects/tree/main/tor_usage)**
 
 - **[Threat Hunting Lab Reports](https://github.com/jason-p-nguyen/threat-hunting-labs/)**
 
