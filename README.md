@@ -18,19 +18,23 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
+### Threat Hunting Projects
+
+- **[CTF Postmortem: Lurker](https://github.com/jason-p-nguyen/threat-hunting-projects/blob/main/CTF-Lurker/)**
+
 - **[Threat Hunting Project: Tor Browser Usage](https://github.com/jason-p-nguyen/threat-hunting-projects/tree/main/tor_usage)**
 
 - **[Threat Hunting Project: Unauthorised Firefox Installation and Usage](https://github.com/jason-p-nguyen/threat-hunting-labs/tree/main/unauthorised_firefox_usage)**
 
 - **[Threat Hunting Project: Dropbox Exfiltration (Insider Threat)](https://github.com/jason-p-nguyen/threat-hunting-projects/tree/main/dropbox_exfiltration)**
 
+### Labs & Ideas
+
 - **[Threat Hunting Lab Reports](https://github.com/jason-p-nguyen/threat-hunting-labs/)**
 
 - **[Incident Response Lab Reports](https://github.com/jason-p-nguyen/incident-response-labs/)** 
 
-- **[CTF Postmortem: Lurker](https://github.com/jason-p-nguyen/threat-hunting-projects/blob/main/CTF-Lurker/)**
-
-- **[Threat Hunt Project Ideas](Coming soon)**
+- **[Threat Hunt Project Ideas](https://github.com/jason-p-nguyen/threat-hunting-labs/blob/main/threat-hunt-ideas.md)**
 
 <hr/>
 
