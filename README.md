@@ -51,7 +51,7 @@ From reverse engineering USB drop scenarios to mapping out Dropbox exfiltration 
 ![Microsoft Defender](https://img.shields.io/badge/Defender_for_Endpoint-0078D4?logo=microsoft&logoColor=white)
 
 🧠 Learning / Roles
-![Cybersecurity Intern](https://img.shields.io/badge/Cybersecurity-Intern-yellow)
+![Threat Hunter](https://img.shields.io/badge/Threat_Hunter-In_Training-blueviolet)
 ![Lifelong Learner](https://img.shields.io/badge/Lifelong-Learner-brightgreen)
 ![Red Team Curious](https://img.shields.io/badge/Red_Team-Curious-critical)
 
