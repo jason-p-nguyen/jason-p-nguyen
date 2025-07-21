@@ -52,6 +52,7 @@ From reverse engineering USB drop scenarios to mapping out Dropbox exfiltration 
 
 🧠 Learning / Roles
 ![Threat Hunter](https://img.shields.io/badge/Threat_Hunter-In_Training-blueviolet)
+![Cloud Security Explorer](https://img.shields.io/badge/Cloud_Security-Explorer-blue)
 ![Lifelong Learner](https://img.shields.io/badge/Lifelong-Learner-brightgreen)
 ![Red Team Curious](https://img.shields.io/badge/Red_Team-Curious-critical)
 
