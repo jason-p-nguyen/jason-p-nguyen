@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Aspiring+Security+Analyst;Threat+Hunter+in+Training;Cloud+Security+Explorer;Red+Team+Curious;Lifelong+Learner+🚀" />
 </p>
 
-I'm passionate about **cybersecurity**, especially **threat hunting**, **incident response**, and **automating security operations**.  
-From reverse engineering USB drop scenarios to mapping out Dropbox exfiltration in Azure — my projects are rooted in hands-on experimentation, structured analysis, and storytelling.  
-Currently exploring **cloud-native defenses** and **log-driven detection** as a Cloud Security Explorer.
+I’m curious about cybersecurity and love getting hands-on with real challenges.
+Working on projects like reverse-engineering USB drop attacks and digging into Dropbox data leaks in Azure lets me experiment, analyze, and tell the story behind the logs.
+Right now, I’m diving deeper into cloud security on Azure—learning how to spot threats using logs, endpoint tools, and security analytics.
 
 ---
 
