@@ -30,10 +30,9 @@ Right now, I’m diving deeper into cloud security on Azure—learning how to sp
   Red team-style scenario analysis. Mapped attacker behavior through logs.  
   _Postmortem format with IOC timeline and lessons learned._
 
-- 💾 **[USB Malware Execution via PowerShell](https://github.com/jason-p-nguyen/threat-hunting-projects/tree/main/usb_malware_execution)**
-  Identified malicious script execution triggered by a rogue USB drop scenario.
+- 💾 **[USB Malware Execution via PowerShell](https://github.com/jason-p-nguyen/threat-hunting-projects/tree/main/usb_malware_execution)**  
+  Identified malicious script execution triggered by a rogue USB drop scenario.  
   _Used MDE (DeviceProcessEvents), KQL, and Sentinel to trace PowerShell payload._
-
 
 ---
 
