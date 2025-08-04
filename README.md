@@ -14,7 +14,7 @@ Right now, I’m diving deeper into cloud security on Azure—learning how to sp
 
 > Self-directed investigations inspired by real-world TTPs
 
-- 💥 PwnCrypt Ransomware Simulation
+- 💥 **[Malware Analysis - PwnCrypt](https://github.com/jason-p-nguyen/threat-hunting-projects/tree/main/malware-analysis-pwncrypt)**
   Simulated a PowerShell-based ransomware attack to study encryption behavior and impact.
   _Analyzed file changes, encoded payloads, ransom notes, and mapped MITRE ATT&CK stages._
 
