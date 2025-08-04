@@ -14,9 +14,17 @@ Right now, I’m diving deeper into cloud security on Azure—learning how to sp
 
 > Self-directed investigations inspired by real-world TTPs
 
-- 💥 **[Malware Analysis - PwnCrypt](https://github.com/jason-p-nguyen/threat-hunting-projects/tree/main/malware-analysis-pwncrypt)**
-  Simulated a PowerShell-based ransomware attack to study encryption behavior and impact.
+- 💥 **[Malware Analysis - PwnCrypt](https://github.com/jason-p-nguyen/threat-hunting-projects/tree/main/malware-analysis-pwncrypt)**  
+  Simulated a PowerShell-based ransomware attack to study encryption behavior and impact.  
   _Analyzed file changes, encoded payloads, ransom notes, and mapped MITRE ATT&CK stages._
+
+- 🎯 **[CTF Postmortem: Lurker](https://github.com/jason-p-nguyen/threat-hunting-projects/blob/main/CTF-Lurker/)**  
+  Red team-style scenario analysis. Mapped attacker behavior through logs.  
+  _Postmortem format with IOC timeline and lessons learned._
+
+- 💾 **[USB Malware Execution via PowerShell](https://github.com/jason-p-nguyen/threat-hunting-projects/tree/main/usb_malware_execution)**  
+  Identified malicious script execution triggered by a rogue USB drop scenario.  
+  _Used MDE (DeviceProcessEvents), KQL, and Sentinel to trace PowerShell payload._
 
 - 🔍 **[Dropbox Exfiltration – Insider Threat](https://github.com/jason-p-nguyen/threat-hunting-projects/tree/main/dropbox_exfiltration)**  
   Investigated potential insider data theft using personal Dropbox.  
@@ -30,13 +38,6 @@ Right now, I’m diving deeper into cloud security on Azure—learning how to sp
   Hunt for unapproved browser install/use in an enterprise environment.  
   _Leveraged DeviceFileEvents, MDE alerts, PowerShell traces._
 
-- 🎯 **[CTF Postmortem: Lurker](https://github.com/jason-p-nguyen/threat-hunting-projects/blob/main/CTF-Lurker/)**  
-  Red team-style scenario analysis. Mapped attacker behavior through logs.  
-  _Postmortem format with IOC timeline and lessons learned._
-
-- 💾 **[USB Malware Execution via PowerShell](https://github.com/jason-p-nguyen/threat-hunting-projects/tree/main/usb_malware_execution)**  
-  Identified malicious script execution triggered by a rogue USB drop scenario.  
-  _Used MDE (DeviceProcessEvents), KQL, and Sentinel to trace PowerShell payload._
 
 ---
 
